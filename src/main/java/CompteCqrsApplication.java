@@ -9,7 +9,7 @@ import org.axonframework.modelling.command.Repository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class CompteCqrsApplication {
 
     public static void main(String[] args) {
